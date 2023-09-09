@@ -1,0 +1,22 @@
+body {
+    font-family: $prim-font,
+        Arial, Helvetica, sans-serif;
+
+}
+
+*:not(path) {
+    box-sizing: border-box;
+    letter-spacing: 1px;
+    color: $text;
+}
+
+p,
+article {
+    line-height: 1.5;
+    color: $text;
+}
+
+p,
+article {
+    line-height: 1.5;
+}
